@@ -1,6 +1,6 @@
 # Awesome-Realtime-Messaging-Websockets
 
-# Top Realtime Messaging & WebSockets Tools Ecosystem
+## Top Realtime Messaging & WebSockets Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Bidirectional Pub/Sub, Connection Recovery & Self-Hosted WebSocket Servers*  
