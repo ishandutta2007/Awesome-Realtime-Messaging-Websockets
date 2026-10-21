@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/wAwesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Realtime-Messaging-Websockets/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Realtime-Messaging-Websockets?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Realtime-Messaging-Websockets/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Realtime-Messaging-Websockets?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Realtime-Messaging-Websockets/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Realtime-Messaging-Websockets?color=brightgreen" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Realtime-Messaging-Websockets/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Realtime-Messaging-Websockets?color=blue" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Realtime-Messaging-Websockets/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Realtime-Messaging-Websockets?color=orange" alt="License" /></a>
@@ -60,69 +60,69 @@ The following hosted platforms provide managed infrastructure with global edge r
 
 ## 💻 Open-Source Realtime & WebSocket Projects
 
-Self-hosted and library solutions provide full data sovereignty, zero per-message SaaS charges, and complete protocol configurability. Projects are **sorted in descending order by GitHub star count**.
+Self-hosted and library solutions provide full data sovereignty, zero per-message SaaS charges, and complete protocol configurability. Projects are **sorted in descending order by GitHub Stars_Count**.
 
-### 1. **[Socket.IO](https://github.com/socketio/socket.io)** [![GitHub stars](https://img.shields.io/github/stars/socketio/socket.io?style=social&color=white)](https://github.com/socketio/socket.io/stargazers)
+### 1. **[Socket.IO](https://github.com/socketio/socket.io)** [![GitHub_Stars](https://img.shields.io/github/stars/socketio/socket.io?style=social&color=white)](https://github.com/socketio/socket.io/stargazers)
 * **License**: MIT | **Language**: TypeScript / Node.js
 * **Overview**: The most popular event-based bidirectional communication library in the JavaScript ecosystem. Socket.IO builds on top of Engine.IO to provide HTTP long-polling fallback, automatic reconnection with backoff, room multiplexing, and binary message streaming. Multi-node horizontal scaling is achieved via the Redis or Nats cluster adapter.
 
-### 2. **[gorilla/websocket](https://github.com/gorilla/websocket)** [![GitHub stars](https://img.shields.io/github/stars/gorilla/websocket?style=social&color=white)](https://github.com/gorilla/websocket/stargazers)
+### 2. **[gorilla/websocket](https://github.com/gorilla/websocket)** [![GitHub_Stars](https://img.shields.io/github/stars/gorilla/websocket?style=social&color=white)](https://github.com/gorilla/websocket/stargazers)
 * **License**: BSD-2-Clause | **Language**: Go
 * **Overview**: The gold-standard, idiomatic WebSocket protocol implementation (RFC 6455) for Go. Thoroughly tested against the Autobahn test suite, gorilla/websocket powers thousands of microservices requiring concurrent connection handling, efficient buffer reuse, and granular connection lifecycle hooks.
 
-### 3. **[Yjs](https://github.com/yjs/yjs)** [![GitHub stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers)
+### 3. **[Yjs](https://github.com/yjs/yjs)** [![GitHub_Stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers)
 * **License**: MIT | **Language**: JavaScript
 * **Overview**: High-performance Conflict-free Replicated Data Type (CRDT) library optimized for real-time collaborative text editing, state sync, and canvas tools. Communicates over WebSockets, WebRTC, and Dat, syncing complex data structures with automatic conflict resolution without centralized locking.
 
-### 4. **[ws](https://github.com/websockets/ws)** [![GitHub stars](https://img.shields.io/github/stars/websockets/ws?style=social&color=white)](https://github.com/websockets/ws/stargazers)
+### 4. **[ws](https://github.com/websockets/ws)** [![GitHub_Stars](https://img.shields.io/github/stars/websockets/ws?style=social&color=white)](https://github.com/websockets/ws/stargazers)
 * **License**: MIT | **Language**: JavaScript / Node.js
 * **Overview**: Blazing-fast, ultra-lean, and RFC-compliant WebSocket client and server library for Node.js. It operates without extra protocol abstractions or custom frame formatting, making it the bedrock transport engine for hundreds of web frameworks and developer toolchains.
 
-### 5. **[LiveKit](https://github.com/livekit/livekit)** [![GitHub stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)
+### 5. **[LiveKit](https://github.com/livekit/livekit)** [![GitHub_Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)
 * **License**: Apache-2.0 | **Language**: Go
 * **Overview**: Complete real-time infrastructure platform for WebRTC video, spatial audio, and low-latency bidirectional data channels. Features automatic server-side SFU routing, integrated WebSocket signaling, and pre-built SDKs for mobile, web, React Native, Unity, and AI voice agents.
 
-### 6. **[µWebSockets](https://github.com/uNetworking/uWebSockets)** [![GitHub stars](https://img.shields.io/github/stars/uNetworking/uWebSockets?style=social&color=white)](https://github.com/uNetworking/uWebSockets/stargazers)
+### 6. **[µWebSockets](https://github.com/uNetworking/uWebSockets)** [![GitHub_Stars](https://img.shields.io/github/stars/uNetworking/uWebSockets?style=social&color=white)](https://github.com/uNetworking/uWebSockets/stargazers)
 * **License**: Apache-2.0 | **Language**: C++ / C
 * **Overview**: Ultra-high-performance C++ WebSocket, HTTP, and Pub/Sub server engine engineered to sustain millions of concurrent socket connections with minimal CPU overhead and deterministic memory usage. Used in high-frequency trading terminals and gaming servers.
 
-### 7. **[EMQX](https://github.com/emqx/emqx)** [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
+### 7. **[EMQX](https://github.com/emqx/emqx)** [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
 * **License**: Apache-2.0 | **Language**: Erlang / Elixir
 * **Overview**: Massively scalable distributed MQTT and real-time messaging broker. Capable of handling over 100 Million concurrent IoT, automotive, and mobile client connections on an Erlang/OTP cluster with native WebSocket bridging and low-latency rule engines.
 
-### 8. **[Centrifugo](https://github.com/centrifugal/centrifugo)** [![GitHub stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)
+### 8. **[Centrifugo](https://github.com/centrifugal/centrifugo)** [![GitHub_Stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)
 * **License**: Apache-2.0 | **Language**: Go
 * **Overview**: Feature-rich, language-agnostic real-time messaging server. Exposes WebSocket, HTTP-streaming, Server-Sent Events (SSE), and WebTransport interfaces. Out-of-the-box features include channel history recovery, Redis/KeyDB clustering, delta compression, and native PostgreSQL/Kafka CDC outbox stream ingestion.
 
-### 9. **[deepstream.io](https://github.com/deepstreamIO/deepstream.io)** [![GitHub stars](https://img.shields.io/github/stars/deepstreamIO/deepstream.io?style=social&color=white)](https://github.com/deepstreamIO/deepstream.io/stargazers)
+### 9. **[deepstream.io](https://github.com/deepstreamIO/deepstream.io)** [![GitHub_Stars](https://img.shields.io/github/stars/deepstreamIO/deepstream.io?style=social&color=white)](https://github.com/deepstreamIO/deepstream.io/stargazers)
 * **License**: MIT | **Language**: TypeScript / Node.js
 * **Overview**: Multi-model real-time data server providing three foundational primitives: schema-free synchronized JSON records, many-to-many event topics, and routed RPC calls with automatic failover. Integrates with PostgreSQL, MongoDB, Redis, and Memcached backends.
 
-### 10. **[SocketCluster](https://github.com/SocketCluster/socketcluster)** [![GitHub stars](https://img.shields.io/github/stars/SocketCluster/socketcluster?style=social&color=white)](https://github.com/SocketCluster/socketcluster/stargazers)
+### 10. **[SocketCluster](https://github.com/SocketCluster/socketcluster)** [![GitHub_Stars](https://img.shields.io/github/stars/SocketCluster/socketcluster?style=social&color=white)](https://github.com/SocketCluster/socketcluster/stargazers)
 * **License**: MIT | **Language**: JavaScript / Node.js
 * **Overview**: Scalable real-time pub/sub and RPC framework optimized for multi-core processors and Kubernetes clusters. Features async-await generator streams, resilient reconnection recovery, and channel authorization hooks.
 
-### 11. **[PartyKit](https://github.com/partykit/partykit)** [![GitHub stars](https://img.shields.io/github/stars/partykit/partykit?style=social&color=white)](https://github.com/partykit/partykit/stargazers)
+### 11. **[PartyKit](https://github.com/partykit/partykit)** [![GitHub_Stars](https://img.shields.io/github/stars/partykit/partykit?style=social&color=white)](https://github.com/partykit/partykit/stargazers)
 * **License**: MIT | **Language**: TypeScript
 * **Overview**: Modern developer platform for building multiplayer applications, collaborative canvasses, and real-time state machines on Cloudflare Workers edge compute. Pairs WebSockets with persistent storage primitives.
 
-### 12. **[Soketi](https://github.com/soketi/soketi)** [![GitHub stars](https://img.shields.io/github/stars/soketi/soketi?style=social&color=white)](https://github.com/soketi/soketi/stargazers)
+### 12. **[Soketi](https://github.com/soketi/soketi)** [![GitHub_Stars](https://img.shields.io/github/stars/soketi/soketi?style=social&color=white)](https://github.com/soketi/soketi/stargazers)
 * **License**: AGPL-3.0 | **Language**: TypeScript / C++
 * **Overview**: Ultra-fast, Pusher-compatible WebSocket server written in TypeScript with a C++ uWebSockets core. Operates as an instantaneous drop-in replacement for Pusher Channels, allowing existing client SDKs to run self-hosted with Redis horizontal clustering.
 
-### 13. **[Mercure](https://github.com/dunglas/mercure)** [![GitHub stars](https://img.shields.io/github/stars/dunglas/mercure?style=social&color=white)](https://github.com/dunglas/mercure/stargazers)
+### 13. **[Mercure](https://github.com/dunglas/mercure)** [![GitHub_Stars](https://img.shields.io/github/stars/dunglas/mercure?style=social&color=white)](https://github.com/dunglas/mercure/stargazers)
 * **License**: AGPL-3.0 | **Language**: Go
 * **Overview**: Open, standards-based Server-Sent Events (SSE) hub implementing the Mercure protocol. Provides JWT authorization, connection multiplexing, and automatic message re-delivery over HTTP/2 and HTTP/3. First-class citizen in FrankenPHP, Symfony, and Laravel.
 
-### 14. **[Primus](https://github.com/primus/primus)** [![GitHub stars](https://img.shields.io/github/stars/primus/primus?style=social&color=white)](https://github.com/primus/primus/stargazers)
+### 14. **[Primus](https://github.com/primus/primus)** [![GitHub_Stars](https://img.shields.io/github/stars/primus/primus?style=social&color=white)](https://github.com/primus/primus/stargazers)
 * **License**: MIT | **Language**: JavaScript / Node.js
 * **Overview**: Universal real-time abstraction wrapper for Node.js. Enables developers to build against a single API while seamlessly swapping low-level transports (ws, Engine.IO, SockJS, Faye) without changing business code.
 
-### 15. **[Crossbar.io](https://github.com/crossbario/crossbar)** [![GitHub stars](https://img.shields.io/github/stars/crossbario/crossbar?style=social&color=white)](https://github.com/crossbario/crossbar/stargazers)
+### 15. **[Crossbar.io](https://github.com/crossbario/crossbar)** [![GitHub_Stars](https://img.shields.io/github/stars/crossbario/crossbar?style=social&color=white)](https://github.com/crossbario/crossbar/stargazers)
 * **License**: AGPL-3.0 | **Language**: Python
 * **Overview**: Unified application router implementing the open Web Application Messaging Protocol (WAMP). Bridges Publish/Subscribe messaging and routed Remote Procedure Calls (RPC) across polyglot microservices and browser clients over WebSockets.
 
-### 16. **[Centrifuge](https://github.com/centrifugal/centrifuge)** [![GitHub stars](https://img.shields.io/github/stars/centrifugal/centrifuge?style=social&color=white)](https://github.com/centrifugal/centrifuge/stargazers)
+### 16. **[Centrifuge](https://github.com/centrifugal/centrifuge)** [![GitHub_Stars](https://img.shields.io/github/stars/centrifugal/centrifuge?style=social&color=white)](https://github.com/centrifugal/centrifuge/stargazers)
 * **License**: Apache-2.0 | **Language**: Go
 * **Overview**: The high-performance Go real-time messaging library powering the Centrifugo server. Embed directly into existing Go applications to add bidirectional WebSocket and WebTransport connectivity without maintaining an external server process.
 
@@ -183,3 +183,12 @@ Your sponsorship helps keep these benchmarks, pricing comparisons, and open-sour
   <b>Built for platform engineers, distributed systems builders, and real-time application developers.</b><br/>
   <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and community contributors.</sub>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Realtime-Messaging-Websockets&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Realtime-Messaging-Websockets_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Realtime-Messaging-Websockets_growth.svg">
+  </picture>
+</a>
